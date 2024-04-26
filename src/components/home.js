@@ -26,15 +26,15 @@ function Home() {
                 { property: 'twitter:description', content: seo.description },
         ]} />
 
-        <div className="about">
+        <div className="bg-gray-300 text-gray-800">
             <Container>
                 <Row style={{marginBottom: '50px', marginTop: '50px', alignItems: 'center'}} className="">
                     <Col>
-                        <img className="pics pointo" style={{alignItems: 'center'}} src="../img/cover3.jpg" alt="lâmpada" />
+                        <img className="pics pointo rounded rounded-2xl" style={{alignItems: 'center'}} src="../img/cover3.jpg" alt="lâmpada" />
                     </Col>
                     <Col sm>
-                        <h2 className="titulo" style={{}}>Quixote Club</h2>
-                        <p className="paragraph3" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
+                        <h2 className="" style={{}}>Quixote Club</h2>
+                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
                         <br></br>
                         <a href="https://pay.kiwify.com.br/FUsEqyr"><button style={{margin: '12px'}}>Assinar agora</button></a>
                     </Col>
@@ -47,11 +47,31 @@ function Home() {
                 <Row style={{marginTop: '50px', marginBottom: '30px'}} className="">
                     <Col>
                     <br></br>
-                    <h4 className="titulo3" style={{}} align="left">Tenha acesso a conteúdos exclusivos para sair de plebeu e se tornar rei 👑</h4>
+                    <h4 className="titulo3" style={{}} align="left">Aprenda a criar um negócio online</h4>
                     <br></br>
                     <p className="paragraph3">Tornar homens jovens comuns em grandes líderes e empreendedores inovadores, pensantes por conta própria.</p>
                     <p className="paragraph3">A Quixote Club te ensina como pensar da forma que grandes sujeitos da humanidade pensavam e a sair do absoluto zero e encontrar uma área e um negócio que vai te gerar 10k de faturamento mensal.</p>
                     <p className="paragraph3"></p>
+                    <br></br>
+                    <a href="https://pay.kiwify.com.br/FUsEqyr"><button className="buttonSale2" style={{marginTop: '10px', marginBottom: '30px'}}>Assinar Quixote Club</button></a>
+                    </Col>
+                    <Col>
+                        <img className="pics pointo" style={{alignItems: 'center'}} src="../img/cover.jpg" alt="lâmpada" />
+                    </Col>
+                </Row>
+            </Container>
+        </div>
+
+        <div className="bg-white text-gray-800">
+            <Container style={{alignItems: 'center'}}>
+                <Row style={{marginTop: '50px', marginBottom: '30px'}} className="">
+                    <Col>
+                    <br></br>
+                    <h4 className="" style={{}} align="left">Aprenda a criar um negócio online</h4>
+                    <br></br>
+                    <p className="">Tornar homens jovens comuns em grandes líderes e empreendedores inovadores, pensantes por conta própria.</p>
+                    <p className="">A Quixote Club te ensina como pensar da forma que grandes sujeitos da humanidade pensavam e a sair do absoluto zero e encontrar uma área e um negócio que vai te gerar 10k de faturamento mensal.</p>
+                    <p className=""></p>
                     <br></br>
                     <a href="https://pay.kiwify.com.br/FUsEqyr"><button className="buttonSale2" style={{marginTop: '10px', marginBottom: '30px'}}>Assinar Quixote Club</button></a>
                     </Col>
