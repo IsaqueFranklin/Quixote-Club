@@ -1,4 +1,7 @@
 /*Uso geral*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 .titulo {
     font-size: 70px;
