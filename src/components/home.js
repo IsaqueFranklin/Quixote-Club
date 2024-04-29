@@ -232,17 +232,32 @@ function Home() {
             <Container>
             <div className='lg:flex py-12 gap-x-8'>
                   <div className='my-auto items-center mx-8'>
-                    <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Uma assinatura para o empreendedor digital</h2>
+                    <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Aprenda a fazer dinheiro online com os melhores</h2>
                         <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
                         <br></br>
-                    <a className='rounded-md px-3.5 py-2.5 text-sm shadow-sm font-semibold bg-[#08A142] text-white hover:bg-gray-800 hover:scale-110' href="https://pay.kiwify.com.br/FUsEqyr">Fazer parte agora</a>
                   </div>
                   <div className='py-8 lg:py-0 px-8 lg:px-0'>
-                    <img className="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 duration-300 rounded rounded-2xl" style={{alignItems: 'center'}} src="../img/cover3.jpg" alt="lâmpada" />
+                    <img className="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 duration-300 rounded rounded-2xl" style={{alignItems: 'center'}} src="https://images.unsplash.com/photo-1592495989226-03f88104f8cc?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="lâmpada" />
                   </div>
             </div>
             </Container>      
         </div>
+
+        <div className="bg-white text-black py-8">
+            <Container>
+            <div className='pb-12 mx-auto justify-center max-w-5xl'>
+              
+                  <div className='my-auto lg:text-center items-center mx-8'>
+                    <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Softwares desenvolvidos para ajudar o empreendedor digital.</h2>
+                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
+                        <br></br>
+                        <a href="https://pay.kiwify.com.br/FUsEqyr"><button className="buttonSale2" style={{marginTop: '10px', marginBottom: '30px'}}>Assinar Quixote Club</button></a>
+
+                  </div>
+            </div>
+            </Container>      
+        </div>
+
 
         <div className="services" id="#services">
             <Container style={{marginTop: '70px', marginBottom: '70px'}}>
