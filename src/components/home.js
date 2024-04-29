@@ -165,7 +165,7 @@ function Home() {
                     <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Uma assinatura para o empreendedor digital</h2>
                         <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
                         <br></br>
-                    <a className='rounded-md px-3.5 py-2.5 text-sm shadow-sm font-semibold bg-[#08A142] text-white hover:bg-gray-800 hover:scale-110' href="https://pay.kiwify.com.br/FUsEqyr">Fazer parte agora</a>
+                    <a className='rounded-sm mt-8 px-8 py-3 text-sm shadow-sm font-semibold bg-[#08A142] text-white hover:bg-gray-800 hover:scale-110' href="https://pay.kiwify.com.br/FUsEqyr">Fazer parte agora</a>
                   </div>
             </div>
             </Container>      
@@ -228,6 +228,22 @@ function Home() {
         </Container>
     </div>
 
+    <div className="bg-white text-black py-8">
+            <Container>
+            <div className='lg:flex py-12 gap-x-8'>
+                  <div className='my-auto items-center mx-8'>
+                    <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Uma assinatura para o empreendedor digital</h2>
+                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
+                        <br></br>
+                    <a className='rounded-md px-3.5 py-2.5 text-sm shadow-sm font-semibold bg-[#08A142] text-white hover:bg-gray-800 hover:scale-110' href="https://pay.kiwify.com.br/FUsEqyr">Fazer parte agora</a>
+                  </div>
+                  <div className='py-8 lg:py-0 px-8 lg:px-0'>
+                    <img className="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 duration-300 rounded rounded-2xl" style={{alignItems: 'center'}} src="../img/cover3.jpg" alt="lâmpada" />
+                  </div>
+            </div>
+            </Container>      
+        </div>
+
         <div className="services" id="#services">
             <Container style={{marginTop: '70px', marginBottom: '70px'}}>
                 <h2 className="titulo1" style={{marginBottom: '30px'}}>Conteúdos Exclusivos da Quixote Club</h2>
@@ -287,7 +303,7 @@ function Home() {
             </Container>
         </div>
 
-        <div className="frontbanne">
+        {/*<div className="frontbanne">
         <Carousel style={{height: "90vh", width: "100%"}}>
                         <Carousel.Item>
                             <img
@@ -335,7 +351,7 @@ function Home() {
                             </Carousel.Caption>
                         </Carousel.Item>
                     </Carousel>           
-        </div>           
+                </div>   */}        
 
         <div className="packages" id="#packages">
             <Container style={{marginBottom: '90px'}}>
