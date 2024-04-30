@@ -34,7 +34,7 @@ function Footer() {
             </div>
 
                 <br></br>
-                <small className='paragraph3'>&copy; Quixote Club 2023</small>
+                <small className='paragraph3'>&copy; Quixote Club 2024</small>
             </Container>
         </div>
     )

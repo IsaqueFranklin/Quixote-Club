@@ -142,7 +142,7 @@ function Home() {
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
                 href="https://pay.kiwify.com.br/FUsEqyr"
-                className="rounded-md bg-gray-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-gray-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                className="rounded-md bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-gray-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >
                 Fazer parte
               </a>
@@ -159,7 +159,7 @@ function Home() {
             <Container>
             <div className='lg:flex py-12 gap-x-8'>
                   <div className='py-8 lg:py-0 px-8 lg:px-0'>
-                    <img className="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 duration-300 rounded rounded-2xl" style={{alignItems: 'center'}} src="../img/cover3.jpg" alt="lâmpada" />
+                    <img className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 rounded rounded-2xl" style={{alignItems: 'center'}} src="../img/cover3.jpg" alt="lâmpada" />
                   </div>
                   <div className='my-auto items-center mx-8'>
                     <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Uma assinatura para o empreendedor digital</h2>
@@ -181,7 +181,7 @@ function Home() {
                         <a href="https://pay.kiwify.com.br/FUsEqyr"><button className="buttonSale2" style={{marginTop: '10px', marginBottom: '30px'}}>Assinar Quixote Club</button></a>
                     </div>
                     <div className='py-8 lg:py-0 px-8 lg:px-0'>
-                        <img className="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 duration-300 rounded rounded-2xl" style={{alignItems: 'center'}} src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="lâmpada" />
+                        <img className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 rounded rounded-2xl" style={{alignItems: 'center'}} src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="lâmpada" />
                     </div>
                 </div>
             </Container>
@@ -248,7 +248,7 @@ function Home() {
             <div className='pb-12 mx-auto justify-center max-w-5xl'>
               
                   <div className='my-auto lg:text-center items-center mx-8'>
-                    <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Softwares desenvolvidos para ajudar o empreendedor digital.</h2>
+                    <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Softwares desenvolvidos especificamente para ajudar o empreendedor digital.</h2>
                         <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
                         <br></br>
                         <a href="https://pay.kiwify.com.br/FUsEqyr"><button className="buttonSale2" style={{marginTop: '10px', marginBottom: '30px'}}>Assinar Quixote Club</button></a>
@@ -263,6 +263,10 @@ function Home() {
             <Container style={{marginTop: '70px', marginBottom: '70px'}}>
                 <h2 className="titulo1" style={{marginBottom: '30px'}}>Conteúdos Exclusivos da Quixote Club</h2>
                 <br></br>
+                <h2 className='text-white font-semibold text-2xl'>Grupo da comunidade</h2>
+                <h2 className='text-white font-semibold text-2xl'>Aulas e tutoriais</h2>
+                <h2 className='text-white font-semibold text-2xl'>Ebooks, planilhas, pdfs</h2>
+                <h2 className='text-white font-semibold text-2xl'>Softwares exclusivos</h2>
                 <Row style={{alignItems: 'center', justifyContent: 'center', padding: '20px'}}>
                     <Col style={{marginLeft: '30px', marginRight: '30px', marginTop: '30px'}}>
                         <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
