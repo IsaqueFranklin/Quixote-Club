@@ -263,41 +263,72 @@ function Home() {
             <Container style={{marginTop: '70px', marginBottom: '70px'}}>
                 <h2 className="titulo1" style={{marginBottom: '30px'}}>Conteúdos Exclusivos da Quixote Club</h2>
                 <br></br>
+
                 <h2 className='text-white font-semibold text-2xl'>Grupo da comunidade</h2>
+                <div className='lg:flex'>
+                  
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                </div>
+
                 <h2 className='text-white font-semibold text-2xl'>Aulas e tutoriais</h2>
+                <div className='lg:flex'>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                </div>
+
                 <h2 className='text-white font-semibold text-2xl'>Ebooks, planilhas, pdfs</h2>
+                <div className='lg:flex'>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                </div>
+
                 <h2 className='text-white font-semibold text-2xl'>Softwares exclusivos</h2>
-                <Row style={{alignItems: 'center', justifyContent: 'center', padding: '20px'}}>
-                    <Col style={{marginLeft: '30px', marginRight: '30px', marginTop: '30px'}}>
-                        <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
-                        <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
-                    </Col>
-                        
-                    <Col style={{marginLeft: '30px', marginRight: '30px', marginTop: '30px'}}>
-                        <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/2.png" />
-                        <p style={{marginLeft: '50px'}} className="paragraph3">Curso o grande plano para sair do zero e ganhar dinheiro online</p>
-                    </Col>
-
-                    <Col style={{marginLeft: '30px', marginRight: '30px', marginTop: '30px'}}>
-                        <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/3.png" />
-                        <p style={{marginLeft: '50px'}} className="paragraph3">Curso Facebook Ads 3.0</p>
-                    </Col>
-
-                    <Col style={{marginLeft: '30px', marginRight: '30px', marginTop: '30px'}}>
-                        <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/4.png" />
-                        <p style={{marginLeft: '50px'}} className="paragraph3">Grupo de whatsapp e telegram exclusivo para membros.</p>
-                    </Col>
-
-                    <Col style={{marginLeft: '30px', marginRight: '30px', marginTop: '30px'}}>
-                        <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/5.png" />
-                        <p style={{marginLeft: '50px'}} className="paragraph3">Lives toda semana para membros da comunidade</p>
-                    </Col>
-
-                    <Col style={{marginLeft: '30px', marginRight: '30px', marginTop: '30px'}}>
-                        <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/6.png" />
-                        <p style={{marginLeft: '50px'}} className="paragraph3">Diversos outros cursos produzidos durante a validade da sua assinatura.</p>
-                    </Col>
-                </Row>
+                <div className='lg:flex'>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                  <div>
+                    <img className="pics" style={{width: '30vh', height: '30vh', marginBottom: '30px', marginTop: '0px'}} src="../img/1.png" />
+                    <p style={{marginLeft: '50px'}} className="paragraph3">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                  </div>
+                </div>
+  
                 <br></br>
                 <br></br>
                 <h1 className='titulo1'>Tudo isso por apenas R$29,90 por mês.</h1>
