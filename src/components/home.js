@@ -263,80 +263,80 @@ function Home() {
             <Container style={{marginTop: '70px', marginBottom: '70px'}}>
                 <h2 className="titulo1 mb-24">O que você ganha ao assinar a Quixote Club?</h2>
 
-                <div className='py-16 mt-16 mb-16'>
+                <div className='lg:py-16 py-4 mt-16 mb-16'>
                   <h2 className='text-white font-semibold text-2xl mb-8'>Grupo da comunidade</h2>
                   <div className='lg:flex mx-auto justify-center'>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
                       <p className="text-white text-center px-8">Networking com outros empreendedores.</p>
                     </div>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
                       <p className="text-white text-center px-8">Possíveis sócios e clientes.</p>
                     </div>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
                       <p className="text-white text-center px-8">Acesso à experiência de outros empreendedores.</p>
                     </div>
                   </div>
                 </div>
 
-                <div className='py-16 mt-16 mb-16'>
+                <div className='lg:py-16 py-4 mt-16 mb-16'>
                   <h2 className='text-white font-semibold text-2xl mb-8'>Aulas e tutoriais</h2>
                   <div className='lg:flex mx-auto justify-center'>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Facebook Ads e Google Ads.</p>
                     </div>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Estratégias de marketing digital.</p>
                     </div>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Ecommerce, vendas e outros.</p>
                     </div>
                   </div>
                 </div>
 
-                <div className='py-16 mt-16 mb-16'>
+                <div className='lg:py-16 py-4 mt-16 mb-16'>
                   <h2 className='text-white font-semibold text-2xl mb-8'>Ebooks, planilhas, pdfs</h2>
-                  <div className='lg:flex mx-auto justify-center'>
-                    <div className='w-64 h-64'>
+                  <div className='lg:flex mx-auto justify-center text-center'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Organização financeira.</p>
                     </div>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Planejamento de negócio.</p>
                     </div>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto justify-center'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Tutorias para começar a empreender.</p>
                     </div>
                   </div>
                 </div>
 
-                <div className='py-16 mt-16 mb-16'>
+                <div className='lg:py-16 py-4 mt-16 mb-16'>
                   <h2 className='text-white font-semibold text-2xl mb-8'>Softwares exclusivos</h2>
                   <div className='lg:flex mx-auto justify-center'>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Blogme: produção de conteúdo escrito e email marketing.</p>
                     </div>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Copernico: Aplicativo de gestão financeira de negócios.</p>
                     </div>
-                    <div className='w-64 h-64'>
+                    <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Capte.io: Sistema de prospecção automática de clientes.</p>
                     </div>
                   </div>
                 </div>
   
-                <div className='mt-16 lg:mt-48'>
-                  <h1 className='titulo1'>Tudo isso por apenas R$29,90 por mês.</h1>
+                <div className='mt-16 lg:mt-48 px-8'>
+                  <h1 className='text-white text-xl lg:text-4xl font-light'>Tudo isso por apenas R$29,90 por mês.</h1>
                   <br></br>
                   <a href="https://pay.kiwify.com.br/FUsEqyr"><button className="buttonSale2">Assinar Quixote Club</button></a>
                 </div>
