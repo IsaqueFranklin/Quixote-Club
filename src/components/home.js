@@ -230,7 +230,7 @@ function Home() {
 
     <div className="bg-white text-black py-8">
             <Container>
-            <div className='lg:flex py-12 gap-x-8'>
+            <div className='lg:flex py-8 lg:py-12 gap-x-8'>
                   <div className='my-auto items-center mx-8'>
                     <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Aprenda a fazer dinheiro online com os melhores</h2>
                         <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
@@ -243,7 +243,7 @@ function Home() {
             </Container>      
         </div>
 
-        <div className="bg-white text-black py-8">
+        <div className="bg-white text-black py-2 lg:py-8">
             <Container>
             <div className='pb-12 mx-auto justify-center max-w-5xl'>
               
@@ -343,20 +343,20 @@ function Home() {
             </Container>
         </div>
         
-        <div className="about" id="#about">
+        <div className="bg-white text-black py-8">
             <Container>
-                <Row style={{marginBottom: '100px', marginTop: '50px', alignItems: 'center'}}>
-                    <Col>
-                        <img className="pics pointo" style={{alignItems: 'center'}} src="../img/cover9.jpg" alt="lâmpada" />
-                    </Col>
-                    <Col>
-                        <h2 className="titulo1" style={{}}>Aprenda a criar valor a ganhar dinheiro na internet</h2>
-                        <p className="paragraph3" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Sem enrolação, sem falsas promessas, na Quixote Club nos ensinamos o que não ensinam em nenhum outro lugar: a realidade como ela é. Desenvolva habilidades e se torne um jovem empreendedor, faça parte do grupo de networking e conheça sócios.</p>
+            <div className='lg:flex py-12 gap-x-8'>
+                  <div className='py-8 lg:py-0 px-8 lg:px-0'>
+                    <img className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 rounded rounded-2xl" style={{alignItems: 'center'}} src="../img/cover3.jpg" alt="lâmpada" />
+                  </div>
+                  <div className='my-auto items-center mx-8'>
+                    <h2 className="text-2xl lg:text-4xl font-semibold mb-4">Aprenda a criar valor e ganhar dinheiro na internet</h2>
+                        <p className="mb-4">Sem enrolação, sem falsas promessas, na Quixote Club nos ensinamos o que não ensinam em nenhum outro lugar: a realidade como ela é. Desenvolva habilidades e se torne um jovem empreendedor, faça parte do grupo de networking e conheça sócios.</p>
                         <br></br>
-                        <a href="/about"><button className='buttonSale2' style={{margin: '12px'}}>Quixote Club</button></a>
-                    </Col>
-                </Row>
-            </Container>
+                    <a className='rounded-sm mt-8 px-8 py-3 text-sm shadow-sm font-semibold bg-[#08A142] text-white hover:bg-gray-800 hover:scale-110' href="https://pay.kiwify.com.br/FUsEqyr">Quixote Club</a>
+                  </div>
+            </div>
+            </Container>      
         </div>
 
         {/*<div className="frontbanne">
