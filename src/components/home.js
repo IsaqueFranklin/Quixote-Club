@@ -263,74 +263,74 @@ function Home() {
             <Container style={{marginTop: '70px', marginBottom: '70px'}}>
                 <h2 className="titulo1 mb-24">O que você ganha ao assinar a Quixote Club?</h2>
 
-                <div className='mt-16'>
+                <div className='py-16 mt-16 mb-16'>
                   <h2 className='text-white font-semibold text-2xl mb-8'>Grupo da comunidade</h2>
                   <div className='lg:flex mx-auto justify-center'>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Networking com outros empreendedores.</p>
                     </div>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Possíveis sócios e clientes.</p>
                     </div>
-                    <div>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                    <div className='w-64 h-64'>
+                      <img className="pics rounded rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
+                      <p className="text-white text-center px-8">Acesso à experiência de outros empreendedores.</p>
                     </div>
                   </div>
                 </div>
 
-                <div className='mt-16'>
+                <div className='py-16 mt-16 mb-16'>
                   <h2 className='text-white font-semibold text-2xl mb-8'>Aulas e tutoriais</h2>
                   <div className='lg:flex mx-auto justify-center'>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
                   </div>
                 </div>
 
-                <div className='mt-16'>
+                <div className='py-16 mt-16 mb-16'>
                   <h2 className='text-white font-semibold text-2xl mb-8'>Ebooks, planilhas, pdfs</h2>
                   <div className='lg:flex mx-auto justify-center'>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
                   </div>
                 </div>
 
-                <div className='mt-16'>
+                <div className='py-16 mt-16 mb-16'>
                   <h2 className='text-white font-semibold text-2xl mb-8'>Softwares exclusivos</h2>
                   <div className='lg:flex mx-auto justify-center'>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
-                    <div>
+                    <div className='w-64 h-64'>
                       <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="paragraph3 text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
+                      <p className="text-white text-center px-8">Curso completo do 0 aos 5k/Mês com dropshipping</p>
                     </div>
                   </div>
                 </div>
