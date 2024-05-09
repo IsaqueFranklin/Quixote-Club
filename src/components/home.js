@@ -178,6 +178,7 @@ function Home() {
                         <h4 className="font-semibold text-4xl mb-4" style={{}} align="left">Aprenda a criar um negócio online</h4>
                         <p className="mb-4">Tornar homens jovens comuns em grandes líderes e empreendedores inovadores, pensantes por conta própria.</p>
                         <p className="mb-8">A Quixote Club te ensina como pensar da forma que grandes sujeitos da humanidade pensavam e a sair do absoluto zero e encontrar uma área e um negócio que vai te gerar 10k de faturamento mensal.</p>
+                        <h4 className='font-semibold text-xl mb-8'>Apenas R$29,90/mês, aproveite a oportunidade de mudar sua vida com a internet.</h4>
                         <a href="https://pay.kiwify.com.br/FUsEqyr"><button className="buttonSale2" style={{marginTop: '10px', marginBottom: '30px'}}>Assinar Quixote Club</button></a>
                     </div>
                     <div className='py-8 lg:py-0 px-8 lg:px-0'>
@@ -420,7 +421,7 @@ function Home() {
                         <br></br>
                     </Col>
                 </Row>
-                <a href="https://api.whatsapp.com/send?phone=5531975382592&text=Ol%C3%A1%20Horizon%20Labs%2C%20eu%20quero%20contratar%20um%20pacote%20da%20Horizon%20Labs%20para%20minha%20empresa."><button className="buttonSale2" style={{margin: '12px'}}>Conversar com a Quixote Club</button></a>
+                <a href="https://api.whatsapp.com/send?phone=5531975382592&text=Ol%C3%A1%20Horizon%20Labs%2C%20eu%20quero%20contratar%20um%20pacote%20da%20Horizon%20Labs%20para%20minha%20empresa."><button className="buttonSale2" style={{margin: '12px'}}>Converse conosco</button></a>
             </Container>
         </div>
         </>
