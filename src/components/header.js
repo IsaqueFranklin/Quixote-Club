@@ -15,7 +15,7 @@ function Header() {
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mr-auto">
                     <Nav.Link className="header" style={{}} href="/about"><button>Entrar</button></Nav.Link>
-                    <Nav.Link className="header2" style={{}} href="https://pay.kiwify.com.br/FUsEqyr"><button>Assinar</button></Nav.Link>
+                    <Nav.Link className="header2" style={{}} href="https://pay.kiwify.com.br/9m4od8V"><button>Assinar</button></Nav.Link>
                     {/*<Nav.Link style={{marginLeft: 20, color: '#fff'}} href="/planos">Planos</Nav.Link>
                     <Nav.Link style={{marginLeft: 20, color: '#fff'}} href="/contato">Contato</Nav.Link>*/}
                     {/*{user && (
