@@ -40,7 +40,7 @@ function Home() {
         <nav className="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
           <div className="flex lg:flex-1">
             <a href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">Your Company</span>
+              <span className="sr-only">Quixote Club</span>
               <img
                 className="h-8 w-auto"
                 src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
@@ -136,8 +136,7 @@ function Home() {
             Quixote Club
             </h1>
             <p className="mt-6 text-lg leading-8 text-white">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
+              Uma Comunidade Exclusiva para Empreendedores que Constroem, Aprendem e Compartilham.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
@@ -146,9 +145,9 @@ function Home() {
               >
                 Fazer parte
               </a>
-              <a href="/about" className="text-sm font-semibold leading-6 text-white">
+              {/*<a href="/about" className="text-sm font-semibold leading-6 text-white">
                 Saber mais <span aria-hidden="true">→</span>
-              </a>
+                </a>*/}
             </div>
           </div>
         </div>
@@ -163,7 +162,7 @@ function Home() {
                   </div>
                   <div className='my-auto items-center mx-8'>
                     <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Uma assinatura para o empreendedor digital</h2>
-                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
+                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>O Quixote Club é uma plataforma de comunidade por assinatura criada para empreendedores visionários. Nossa missão é proporcionar um espaço de networking, troca de conhecimentos e suporte prático, onde profissionais comprometidos possam crescer e alcançar seus objetivos de maneira verídica e profissional. Sem enrolação. Sem promessas falsas.</p>
                         <br></br>
                     <a className='rounded-sm mt-8 px-8 py-3 text-sm shadow-sm font-semibold bg-[#08A142] text-white hover:bg-gray-800 hover:scale-110' href="https://pay.kiwify.com.br/9m4od8V">Fazer parte agora</a>
                   </div>
@@ -176,8 +175,7 @@ function Home() {
                 <div className='lg:flex py-12 gap-x-8'>
                     <div className='my-auto items-center mx-8'>
                         <h4 className="font-semibold text-4xl mb-4" style={{}} align="left">Aprenda a criar um negócio online</h4>
-                        <p className="mb-4">Tornar homens jovens comuns em grandes líderes e empreendedores inovadores, pensantes por conta própria.</p>
-                        <p className="mb-8">A Quixote Club te ensina como pensar da forma que grandes sujeitos da humanidade pensavam e a sair do absoluto zero e encontrar uma área e um negócio que vai te gerar 10k de faturamento mensal.</p>
+                        <p className="mb-4">Descubra como construir um negócio digital do zero com estratégias comprovadas e suporte especializado. Nossa comunidade oferece todas as ferramentas e conhecimentos necessários para transformar suas ideias em uma empresa lucrativa.</p>
                         <h4 className='font-semibold text-xl mb-8'>Apenas R$29,90/mês, aproveite a oportunidade de mudar sua vida com a internet.</h4>
                         <a href="https://pay.kiwify.com.br/9m4od8V"><button className="buttonSale2" style={{marginTop: '10px', marginBottom: '30px'}}>Assinar Quixote Club</button></a>
                     </div>
@@ -234,7 +232,7 @@ function Home() {
             <div className='lg:flex py-8 lg:py-12 gap-x-8'>
                   <div className='my-auto items-center mx-8'>
                     <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Aprenda a fazer dinheiro online com os melhores</h2>
-                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
+                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Ganhe dinheiro online de maneira realista e sustentável. No Quixote Club, você aprenderá com os melhores empreendedores e especialistas, sem promessas falsas. Nossos membros compartilham suas experiências e técnicas para ajudá-lo a alcançar seus objetivos financeiros.</p>
                         <br></br>
                   </div>
                   <div className='py-8 lg:py-0 px-8 lg:px-0'>
@@ -250,7 +248,7 @@ function Home() {
               
                   <div className='my-auto lg:text-center items-center mx-8'>
                     <h2 className="text-2xl lg:text-4xl font-semibold" style={{}}>Softwares desenvolvidos especificamente para ajudar o empreendedor digital.</h2>
-                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Do plebeu ao rei, essa é a Quixote Club, uma comunidade que vai te ensinar desde mentalidade e livros grandiosos até como fazer dinheiro do absoluto zero com a internet sendo jovem e perdido na vida.</p>
+                        <p className="" style={{marginTop: '20px', marginBottom: '0px', textAlign: 'left'}}>Aproveite nossas ferramentas exclusivas, criadas para simplificar e otimizar o seu caminho para o sucesso online. Cada software é projetado para atender às necessidades dos empreendedores digitais, ajudando você a aumentar a produtividade, gerenciar seu negócio com eficiência e maximizar seus resultados. </p>
                         <br></br>
                         <a href="https://pay.kiwify.com.br/9m4od8V"><button className="buttonSale2" style={{marginTop: '10px', marginBottom: '30px'}}>Assinar Quixote Club</button></a>
 
@@ -316,15 +314,15 @@ function Home() {
                   <h2 className='text-white font-semibold text-2xl mb-8'>Aulas e tutoriais</h2>
                   <div className='lg:flex mx-auto justify-center'>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://images.unsplash.com/photo-1491951931722-5a446214b4e2?q=80&w=1967&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                       <p className="text-white text-center px-8">Facebook Ads e Google Ads.</p>
                     </div>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://images.unsplash.com/photo-1582925250462-d012a22ef727?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                       <p className="text-white text-center px-8">Estratégias de marketing digital.</p>
                     </div>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://images.unsplash.com/photo-1556155092-490a1ba16284?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                       <p className="text-white text-center px-8">Ecommerce, vendas e outros.</p>
                     </div>
                   </div>
@@ -334,15 +332,15 @@ function Home() {
                   <h2 className='text-white font-semibold text-2xl mb-8'>Ebooks, planilhas, pdfs</h2>
                   <div className='lg:flex mx-auto justify-center text-center'>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://plus.unsplash.com/premium_photo-1661720120987-9723da4de350?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                       <p className="text-white text-center px-8">Organização financeira.</p>
                     </div>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                       <p className="text-white text-center px-8">Planejamento de negócio.</p>
                     </div>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto justify-center'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://images.unsplash.com/photo-1554260570-e9689a3418b8?q=80&w=2082&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                       <p className="text-white text-center px-8">Tutorias para começar a empreender.</p>
                     </div>
                   </div>
@@ -352,16 +350,16 @@ function Home() {
                   <h2 className='text-white font-semibold text-2xl mb-8'>Softwares exclusivos</h2>
                   <div className='lg:flex mx-auto justify-center'>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Blogme: produção de conteúdo escrito e email marketing.</p>
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://www.indexpage.space/BlogmeFito" />
+                      <p className="text-white text-center px-8">Indexpage</p>
                     </div>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Copernico: Aplicativo de gestão financeira de negócios.</p>
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://i.pinimg.com/564x/15/23/fb/1523fbdc88a4b63fbcf5012fbd43e701.jpg" />
+                      <p className="text-white text-center px-8">Copernico</p>
                     </div>
                     <div className='w-64 h-64 lg:mb-0 mb-8 mx-auto'>
-                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="../img/1.png" />
-                      <p className="text-white text-center px-8">Capte.io: Sistema de prospecção automática de clientes.</p>
+                      <img className="pics rounded-2xl p-8 justify-center mx-auto w-64 h-64" src="https://i.pinimg.com/564x/15/23/fb/1523fbdc88a4b63fbcf5012fbd43e701.jpg" />
+                      <p className="text-white text-center px-8">instapill</p>
                     </div>
                   </div>
                 </div>
@@ -382,7 +380,7 @@ function Home() {
                   </div>
                   <div className='my-auto items-center mx-8'>
                     <h2 className="text-2xl lg:text-4xl font-semibold mb-4">Aprenda a criar valor e ganhar dinheiro na internet</h2>
-                        <p className="mb-4">Sem enrolação, sem falsas promessas, na Quixote Club nos ensinamos o que não ensinam em nenhum outro lugar: a realidade como ela é. Desenvolva habilidades e se torne um jovem empreendedor, faça parte do grupo de networking e conheça sócios.</p>
+                        <p className="mb-4">No Quixote Club, acreditamos que a chave para o sucesso é criar valor. Aprenda como desenvolver produtos e serviços que resolvem problemas reais, atraem clientes e geram receita. Junte-se a uma comunidade de construtores e visionários dedicados ao crescimento mútuo.</p>
                         <br></br>
                     <a className='rounded-sm mt-8 px-8 py-3 text-sm shadow-sm font-semibold bg-[#08A142] text-white hover:bg-gray-800 hover:scale-110' href="https://pay.kiwify.com.br/9m4od8V">Quixote Club</a>
                   </div>
@@ -447,7 +445,7 @@ function Home() {
                         <h2 className="titulo1" style={{}}>Ainda tem dúvidas sobre a Quixote Club?</h2>
                         <br></br>
                         <br></br>
-                        <p className="paragraph3" style={{textAlign: 'center', margin: '12px'}}>Entre em contato conosco para tirar todas as suas dúvidas e entender melhor ainda como funciona a Quixote Club e todos os benefícios que você pode ter ao fazer a assinatura do plano limited.</p>
+                        <p className="paragraph3" style={{textAlign: 'center', margin: '12px'}}>Entre em contato conosco para tirar todas as suas dúvidas e entender melhor ainda como funciona a Quixote Club e todos os benefícios que você pode ter ao fazer sua assinatura.</p>
                         <br></br>
                     </Col>
                 </Row>
